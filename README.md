@@ -1,4 +1,4 @@
 #WELCOME TO GIT FOUNDATION
-#YEAH....
+#YEAH
 ##Projects-GitBasics
 ##Projects-GitBasics
